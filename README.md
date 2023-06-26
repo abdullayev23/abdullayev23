@@ -18,9 +18,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/Shakxzodbek">😉😉</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/ProCoderTG">😉😉</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/mabrur-h/Shakxzodbee/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/mabrur-h/abdullayev23/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
 
