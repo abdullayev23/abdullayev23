@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  ✍️ My blog, where I share personal experiences <a href="https://t.me/ProCoderTG">😉😉</a>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/web_dasturlash_it_dev">😉😉</a>
   <br>
   💬 Ask me anything about from <a href="https://t.me/procodertg" title="Telegram">Here</a>
   <br>
