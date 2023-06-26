@@ -20,9 +20,9 @@
   <br>
   ✍️ My blog, where I share personal experiences <a href="https://t.me/ProCoderTG">😉😉</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/mabrur-h/abdullayev23/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://t.me/procodertg" title="Telegram">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: Bakhodirovichshakhzodbek@gmail.com">Shakxzodbee</a>
+  📫 How to reach me: <a href="mailto: muhammadqodir.org@gmail.com">Muhammadqodir</a>
 
   <br>
 </p>
